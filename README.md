@@ -1,5 +1,6 @@
 # k8s-keepalive
 ![Go Test Workflow](https://github.com/mike-callahan/k8s-keepalive/actions/workflows/go.yml/badge.svg)
+![Docker Build Workflow](https://github.com/mike-callahan/k8s-keepalive/actions/workflows/docker-image.yml/badge.svg)
 ## Introduction
 Over time I've found myself needing a way to keep a k8s pod alive either for debugging purposes or for interactive use. 
 
